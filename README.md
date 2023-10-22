@@ -4,6 +4,8 @@ This project is a random quote generator created using HTML, CSS, and JavaScript
 
 # Demo
 
+![Quote](https://github.com/UmitAygunn/Quote-Generator/assets/140657845/1cceacdc-516d-4c7b-9547-c2e016a09fe3)
+
 Live Demo - Try out the live demo of the random quote generator to generate and share inspiring quotes on Twitter.
 1) https://6533972a42df0604e9157661--gleaming-kitsune-90c267.netlify.app/
 
